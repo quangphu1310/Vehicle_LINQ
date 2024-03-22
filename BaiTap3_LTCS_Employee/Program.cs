@@ -37,7 +37,8 @@ namespace BaiTap3_LTCS_Employee
                     Console.WriteLine(" " + employee.Name);
                 }
             }
-            Console.WriteLine();
+                Console.WriteLine();
+            }
 
             // left outer join
             var result = Employee.GetEmployees()

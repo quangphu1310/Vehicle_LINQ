@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap1_LTCS", "BaiTap1_LTC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap2_LTCS_Vehicle", "BaiTap2_LTCS_Vehicle\BaiTap2_LTCS_Vehicle.csproj", "{33B35876-4713-4FB8-B87C-0187FECD8CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap3_LTCS_Employee", "BaiTap3_LTCS_Employee\BaiTap3_LTCS_Employee.csproj", "{94459E5B-2B66-46BD-985D-1B7A0510724F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap_Employee", "BaiTap_Employee\BaiTap_Employee.csproj", "{621E7377-35D2-4B06-BEE0-3C64D1145928}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,14 +21,6 @@ Global
 		{33B35876-4713-4FB8-B87C-0187FECD8CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33B35876-4713-4FB8-B87C-0187FECD8CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33B35876-4713-4FB8-B87C-0187FECD8CAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{94459E5B-2B66-46BD-985D-1B7A0510724F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94459E5B-2B66-46BD-985D-1B7A0510724F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94459E5B-2B66-46BD-985D-1B7A0510724F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94459E5B-2B66-46BD-985D-1B7A0510724F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{621E7377-35D2-4B06-BEE0-3C64D1145928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{621E7377-35D2-4B06-BEE0-3C64D1145928}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{621E7377-35D2-4B06-BEE0-3C64D1145928}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{621E7377-35D2-4B06-BEE0-3C64D1145928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
